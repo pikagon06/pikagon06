@@ -24,5 +24,6 @@
 <div align="center" dir="auto">
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com">
       <img src="https://skillicons.dev/icons?i=python,vscode,git,github,jupyter">
-   </a>
+### 🐍 My Contributions 🐍
+      ![github contribution grid snake](https://raw.githubusercontent.com/pikagon06/pikagon06/output/github-contribution-grid-snake-dark.svg)
 </div>
